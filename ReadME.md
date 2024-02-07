@@ -1,4 +1,4 @@
-# Instagrame Apk Mirror
+# Instagram Apk Mirror
 
 # **_Installation:_**
 
@@ -15,6 +15,15 @@ To Run React server:
 
 
 Click on Get Instagram Releases button to get all instagram releases
+
+![alt text](https://github.com/monafHorany/instagram_apk/blob/main/Screenshot%202024-02-08%20at%2000.06.10.png)
+
+This operation will take less than 1 min, THEN:
+
+
+![alt text](https://github.com/monafHorany/instagram_apk/blob/main/Screenshot%202024-02-08%20at%2000.07.02.png)
+
+The table will be fulfilled with instagram releases.
 
 **_Used Technologies:_**
 
