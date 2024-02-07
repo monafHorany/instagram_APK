@@ -13,9 +13,8 @@ To Run React server:
 - npm i --save --legacy-peer-deps
 - npm start
 
-The release and variants are already collected and stored in mongoDB database
 
-To Refetch All releases again you can click on Refetch All Releases
+Click on Get Instagram Releases button to get all instagram releases
 
 **_Used Technologies:_**
 
